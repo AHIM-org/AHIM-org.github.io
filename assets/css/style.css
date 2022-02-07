@@ -1,6 +1,11 @@
 body {
-     background-color:lightgreen;
-       background-image: url("https://ahim.org/v2/wp-content/uploads/2021/12/Logo-Ahim_-1.png");
+  background-color:lightgreen;
+  /*
+  background-image: url("https://ahim.org/v2/wp-content/uploads/2021/12/Logo-Ahim_-1.png");
   background-repeat: no-repeat;
-  background-position: right top;
+  background-position: right top;     
+  */
+  background-image: url("http://images.gofreedownload.net/3/nature-background-leaves-grass-icons-repeating-style-sketch-208695.jpg");
+  background-repeat: repeat;
+
 }
