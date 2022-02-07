@@ -1,3 +1,6 @@
 body {
      background-color:lightgreen;
+       background-image: url("https://ahim.org/v2/wp-content/uploads/2021/12/Logo-Ahim_-1.png");
+  background-repeat: no-repeat;
+  background-position: right top;
 }
