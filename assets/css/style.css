@@ -11,7 +11,10 @@ body {
   background-repeat: repeat;
 
 }
-
+h2 {
+  color: magenta;
+  background-color: yellow;
+}
 .cali {
   font-family: 'Brush Script MT', cursive;
 }
