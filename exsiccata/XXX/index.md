@@ -28,7 +28,7 @@ bla bla bla
 - bla
 ## Distribución temporal
 bla bla bla 
-## Grupos taxonómicos
+## <font class="cali">Grupos taxonómicos</font>
 bla bla bla 
 
 ## Exemplares tipo
